@@ -1,1 +1,1 @@
-[Image of me]
+![Image of me](https://octodex.github.com/images/yaktocat.png)
