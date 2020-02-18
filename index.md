@@ -1,14 +1,6 @@
----
-layout: default
----
-
-{% include 01-name.md %}
-
-<br>
-
-{% include 02-image.md %}
-
-<br>
-
-{% include 03-links.md %}
+1. Apples
+    1. Granny Smith
+    2. Pink Lady
+2. Oranges
+3. Banas
 
